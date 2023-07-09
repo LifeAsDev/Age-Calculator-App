@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Age-Calculator-App/static/css/main.fdaafc65.css",
-    "main.js": "/Age-Calculator-App/static/js/main.65c03fba.js",
+    "main.css": "/Age-Calculator-App/static/css/main.e81f054b.css",
+    "main.js": "/Age-Calculator-App/static/js/main.80e797ee.js",
     "static/js/787.b829f917.chunk.js": "/Age-Calculator-App/static/js/787.b829f917.chunk.js",
     "index.html": "/Age-Calculator-App/index.html",
     "static/media/icon-arrow.svg": "/Age-Calculator-App/static/media/icon-arrow.76e952b1b427b84b83bd01f2f4822499.svg",
-    "main.fdaafc65.css.map": "/Age-Calculator-App/static/css/main.fdaafc65.css.map",
-    "main.65c03fba.js.map": "/Age-Calculator-App/static/js/main.65c03fba.js.map",
+    "main.e81f054b.css.map": "/Age-Calculator-App/static/css/main.e81f054b.css.map",
+    "main.80e797ee.js.map": "/Age-Calculator-App/static/js/main.80e797ee.js.map",
     "787.b829f917.chunk.js.map": "/Age-Calculator-App/static/js/787.b829f917.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdaafc65.css",
-    "static/js/main.65c03fba.js"
+    "static/css/main.e81f054b.css",
+    "static/js/main.80e797ee.js"
   ]
 }
